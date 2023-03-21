@@ -51,7 +51,7 @@
     "@babel/plugin-syntax-import-meta": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
-    "@types/deasync": "0.1.0",
+    "@types/deasync": "0.1.2",
     "@types/escape-html": "^1.0.1",
     "@types/jest": "22.2.3",
     "@types/markdown-it": "^12.2.3",
